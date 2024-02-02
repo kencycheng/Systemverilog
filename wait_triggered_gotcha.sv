@@ -1,3 +1,6 @@
+// wait_triggered is a non-blocking function in systemverilog. Never put the function in a non-timed loop to prevent the program from sticking at the time the event triggered
+// eda playground https://www.edaplayground.com/x/P4ZQ
+
 module test;
   event reset_exit, reset_enter;
   reg resetn;

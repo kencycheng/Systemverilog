@@ -1,4 +1,5 @@
 // https://www.edaplayground.com/x/Cy2W
+// Modeling a bidirectional I/O 
 
 module phy(mdio_if mdio_if_s );
   

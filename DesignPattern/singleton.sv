@@ -1,4 +1,4 @@
-// An typical example in UVM is uvm_event_pool
+// A typical example in UVM is uvm_event_pool
 // Everywhere you create the uvm_event_pool instances are the same one
 https://www.edaplayground.com/x/UJDH
 
